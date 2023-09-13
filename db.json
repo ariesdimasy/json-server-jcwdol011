@@ -9,6 +9,11 @@
       "id": 2,
       "name": "monitor AOC 27inch",
       "price": 2300000
+    },
+    {
+      "name": "Logitech Mouse K100",
+      "price": 100000,
+      "id": 3
     }
   ],
   "cart": [],
@@ -156,6 +161,36 @@
     {
       "id_tweet": 12,
       "id_user": 2
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "name": "beli NVME 2.0 SSD 500GB",
+      "nominal": 1200000,
+      "category": "PCMR",
+      "date":"2023-10-01"
+    },
+    {
+      "name": "beli iphone 12 128gb",
+      "nominal": 11000000,
+      "category": "electronic",
+      "id": 3,
+      "date":"2023-10-02"
+    },
+    {
+      "name": "beli MIC rode 1500",
+      "nominal": 900000,
+      "category": "electronic",
+      "id": 4,
+      "date":"2023-10-03"
+    },
+    {
+      "name": "beli pena",
+      "nominal": 7000,
+      "category": "office tools",
+      "id": 5,
+      "date":"2023-10-04"
     }
   ]
 }
